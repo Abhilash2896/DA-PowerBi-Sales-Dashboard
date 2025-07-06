@@ -22,3 +22,6 @@ This Power BI project presents an interactive dashboard designed to **track and 
 - Interactive Report Design  
 - Custom Visualization and User Experience Optimization  
 
+
+## 📸 Screenshots
+https://github.com/Abhilash2896/DA-PowerBi-Sales-Dashboard/blob/main/E-com%20Screenshot1.png
