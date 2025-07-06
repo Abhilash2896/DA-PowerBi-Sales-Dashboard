@@ -25,3 +25,4 @@ This Power BI project presents an interactive dashboard designed to **track and 
 
 ## 📸 Screenshots
 https://github.com/Abhilash2896/DA-PowerBi-Sales-Dashboard/blob/main/E-com%20Screenshot1.png
+https://github.com/Abhilash2896/DA-PowerBi-Sales-Dashboard/blob/main/E-Com%20Screenshot2.png
